@@ -1,0 +1,16 @@
+c:\users\lisa\documents\visual studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\lisa\documents\visual studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\lisa\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+c:\users\lisa\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+c:\users\lisa\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\lisa\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+c:\users\lisa\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\Lisa\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Lisa\Downloads\Calculator-master\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Lisa\Downloads\Calculator-master\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\Lisa\Downloads\Calculator-master\Calculator\bin\Debug\Calculator.exe
+C:\Users\Lisa\Downloads\Calculator-master\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Lisa\Downloads\Calculator-master\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Lisa\Downloads\Calculator-master\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+C:\Users\Lisa\Downloads\Calculator-master\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\Lisa\Downloads\Calculator-master\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
